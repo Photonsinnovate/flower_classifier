@@ -1,4 +1,4 @@
-# flower_classifier
+# Flower Classifier with an accuracy of 95.4% 
 
 classification of flowers using fastai - a PyTorch based deep learning library
 
